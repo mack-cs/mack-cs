@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Mackenzie
+
+Im a self taught Software Developer
+<br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mack-cs&theme=onedark_duo)](https://git.io/streak-stats)   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mack-cs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mack-cs/mack-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
